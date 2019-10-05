@@ -1,0 +1,28 @@
+h1 {
+    padding-top: 20px;
+    padding-left: 30px;
+    max-width: 250px;
+    background-color: aquamarine;
+    border: 5px solid black;
+
+}
+
+#aline{
+    padding-left: 500px;
+    text-align: right;
+}
+
+
+
+#border {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    
+}
+
+.borders{
+    padding-left: 50px;
+}
+
