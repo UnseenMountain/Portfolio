@@ -1,28 +1,59 @@
-h1 {
-    padding-top: 20px;
-    padding-left: 30px;
-    max-width: 250px;
-    background-color: aquamarine;
-    border: 5px solid black;
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+  }
+  
+  header {
+    background: #d21034;
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    background: #333;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
 
+.contain{
+    width: 1024px;
+    margin: 0 auto;
+
+}
+
+
+#aline
+#bio
+#borders{
+    float: left;
+}
+
+#bio{
+   width: 70%;
 }
 
 #aline{
-    padding-left: 500px;
-    text-align: right;
+    float: right;
+    width: 30%;
 }
 
-
-
-#border {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 70px;
-    padding-right: 70px;
-    
+#borders{
+width: 200px;
+height: 200px;
+margin-right: 20px;
 }
 
-.borders{
-    padding-left: 50px;
+#gallery{
+    float: left;
 }
-
