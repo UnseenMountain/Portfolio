@@ -17,8 +17,8 @@ body {
     margin-bottom: 20px;
     font-size: 28px;
     color: #eee;
-    
     background: #333;
+    
   }
   
   h2 {
@@ -39,12 +39,12 @@ body {
 }
 
 #bio{
-   width: 70%;
+   width: 100%;
 }
 
 #aline{
     float: right;
-    width: 30%;
+    color: #eee;
 }
 
 #borders{
@@ -65,3 +65,9 @@ margin-right: 20px;
   
   
 }
+
+#one{
+  float: right;
+  float: inline-start;
+}
+
