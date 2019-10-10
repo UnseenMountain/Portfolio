@@ -1,16 +1,59 @@
 body {
-    padding: 0;
-    margin: 0;
-    font-family: monospace;
-    font-size: 18px;
-    line-height: 150%;
-    color: #333;
-    background: #efeee7;
-  }
-  
-  
-  
-  h1 {
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+}
+
+header {
+  width: 100%;
+
+}
+
+header h1 {
+  margin-left: 30px 0;
+  padding: 30px 0;
+  padding-left: 30px;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #eee;
+  background: #333;
+  float: left;
+  width: 50%;
+  margin: 0;
+  padding-inline-start: 0;
+}
+
+#name{
+  padding-left: 30px; 
+}
+
+header ul {
+  padding: 20px 0;
+
+  margin-bottom: 30px;
+  font-size: 28px;
+  color: #eee;
+  background: #333;
+  float: left;
+  width: 50%;
+  margin: 0;
+  padding-inline-start: 0;
+}
+
+ul li {
+  font-size: 30px;
+  float: left;
+  list-style: none;
+  padding: 10px;
+  width: calc(25% - 10px);
+  text-align: end;
+}
+
+/* h1 { 
     padding: 20px 0;
     padding-left: 30px;
     margin: 0;
@@ -19,55 +62,50 @@ body {
     color: #eee;
     background: #333;
     
-  }
-  
-  h2 {
-    font-size: 24px;
-  }
+  }*/
 
-.contain{
-    width: 1024px;
-    margin: 0 auto;
+h2 {
+  font-size: 24px;
+}
+
+.contain {
+  width: 1200px;
+  margin: 0 auto;
 
 }
 
 
-#aline
-#bio
-#borders{
-    float: left;
-}
-
-#bio{
-   width: 100%;
-}
-
-#aline{
-    float: right;
-    color: #eee;
-}
-
-#borders{
-width: 200px;
-height: 200px;
-margin-right: 20px;
-}
-
-.gallery{
+#aline #bio #borders {
   float: left;
 }
 
-.bottom-left{
+#bio {
+  width: 70%;
+}
+
+
+
+#borders {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+.gallery {
+  float: left;
+}
+
+.bottom-left {
   position: absolute;
   color: antiquewhite;
   background: #333;
   text-align: left;
-  
-  
+
+
 }
 
-#one{
+/* #one{
   float: right;
   float: inline-start;
 }
-
+*/
