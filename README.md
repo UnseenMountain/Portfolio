@@ -4,7 +4,7 @@ This is my unfinished portfolio with links to a gallary of projects. A contact a
 and a little info mation about me. 
 
 I have 4 files.
-Home.html
+index.html
 contact.html
 gallary.html
 and 
