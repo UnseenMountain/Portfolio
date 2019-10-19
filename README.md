@@ -9,3 +9,5 @@ contact.html
 gallary.html
 and 
 style.css
+
+The site now scales with the screen size
