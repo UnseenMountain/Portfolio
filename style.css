@@ -69,13 +69,14 @@ h2 {
 }
 
 
-#aline #bio #borders {
+#aline #bio #borders  {
   float: left;
 }
 
 #bio {
   width: 100%;
 }
+
 
 
 
@@ -86,17 +87,26 @@ h2 {
 }
 
 .gallery {
-  float: left;
+   float: left; 
+   
 }
 
-.bottom-left {
+#space{
+  padding: 30px;
+}
+
+#pics{
+  
+}
+
+/* .bottom-left {
   position: absolute;
   color: antiquewhite;
   background: #333;
   text-align: center;
 
 
-}
+} */
 
 
 
