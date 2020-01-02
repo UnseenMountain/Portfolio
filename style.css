@@ -96,24 +96,14 @@ h2 {
 }
 
 section{
-  width: 90%;
+  width: 100%;
 }
 
-.bottom-left {
-  position: absolute;
-  color: antiquewhite;  
-  background: #333;
-  text-align: center;
-  
 
+
+.background{
+  background-image: url("assets/pictures/learn-code.jpg");
 }
-
-/* .bottom-lefts{
-  
- 
-  float: left;
-} */
-
 
 
 
