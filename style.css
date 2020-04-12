@@ -7,10 +7,8 @@ body {
   font-size: 18px;
   line-height: 150%;
   color: rgb(37, 36, 36);
-  background-image:  url( "assets/pictures/space.gif");
- image-resolution: 1200;
-
-  
+  background-image: url("https://data.whicdn.com/images/289974250/original.gif");
+   background-color: #cccccc; 
 }
 
 header {
