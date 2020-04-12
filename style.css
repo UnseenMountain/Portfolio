@@ -7,8 +7,10 @@ body {
   font-size: 18px;
   line-height: 150%;
   color: rgb(37, 36, 36);
-  background-image: url("assets/pictures/code.jfif");
- background-color: #cccccc; 
+  background-image:  url( "assets/pictures/space.gif");
+ image-resolution: 1200;
+
+  
 }
 
 header {
@@ -102,7 +104,7 @@ section{
 
 
 .background{
-  background-image: url("assets/pictures/learn-code.jpg");
+  background-image: url("assets/pictures/space.gif");
 }
 
 
